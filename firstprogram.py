@@ -68,6 +68,10 @@
 
 
 
+
+
+
+
 class student:
 
     college_name="pallotti college"
@@ -87,3 +91,4 @@ s1=student("krutika",100)
 print("name : ",s1.name)
 print("marks : ",s1.marks)
 print("college : ",s1.college_name)
+print("rakshit")
